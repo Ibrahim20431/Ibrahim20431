@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 **Jetpack Compose**&nbsp;
-[Kotlin Coroutine]&nbsp;
+![Kotlin Coroutine](https://img.shields.io/badge/Status-Active-brightgreen)&nbsp;
 [Kotlin]&nbsp;
 [Java]&nbsp;
 [Xml]\
