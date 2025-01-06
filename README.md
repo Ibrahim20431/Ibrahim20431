@@ -9,12 +9,12 @@
 
 ### &nbsp;Work Experience
 ### &nbsp;Junior Android Developer - Visions tech
- &nbsp;Developed Android applications using Kotlin and Jetpack Compose, focusing on creating interactive user interfaces and enhancing user experience.
-Contributed to improving the second version of the "Gannatak" app, an online marketplace for selling seedlings and providing agricultural consultations, by resolving complex bugs and optimizing performance.
-Played a key role in the development of "Wajad", an online school application, leveraging technologies such as Retrofit, Room, and Hilt within the MVVM architecture.
-Worked on building the "Haraj" investment platform for the Saudi market, implementing cutting-edge technologies to meet user needs.
-Consistently improved code quality and adhered to best programming practices.
-I have worked on modifying and improving Flutter projects, including troubleshooting, customizing UI designs, and integrating additional features to meet project requirements such as “Mr. Tayer”, “Tayer Man”, and “Tashilihi”.\
+ &nbsp;Developed Android applications using Kotlin and Jetpack Compose, focusing on creating interactive user interfaces and enhancing user experience.\
+ &nbsp;Contributed to improving the second version of the "Gannatak" app, an online marketplace for selling seedlings and providing agricultural consultations, by resolving complex bugs and optimizing performance.\
+ &nbsp;Played a key role in the development of "Wajad", an online school application, leveraging technologies such as Retrofit, Room, and Hilt within the MVVM architecture.\
+ &nbsp;Worked on building the "Haraj" investment platform for the Saudi market, implementing cutting-edge technologies to meet user needs.\
+ &nbsp;Consistently improved code quality and adhered to best programming practices.\
+ &nbsp;I have worked on modifying and improving Flutter projects, including troubleshooting, customizing UI designs, and integrating additional features to meet project requirements such as “Mr. Tayer”, “Tayer Man”, and “Tashilihi”.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
