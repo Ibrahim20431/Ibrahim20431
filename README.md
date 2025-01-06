@@ -4,14 +4,17 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
  &nbsp;I am Ibrahim Shabrawy, an Android Developer with one year of experience, dedicated to delivering innovative and high-quality tech solutions. I have expertise in building top-              notch applications using Kotlin and Jetpack Compose, with a solid understanding of MVVM architecture and integration of cutting-edge tools like Hilt and Retrofit. I have                 contributed to the success of applications such as "Gannatak" and "Wajad", focusing on performance optimization and resolving complex issues, while also working on innovative             projects like the "Haraj" platform. I am always eager to expand my skills and bring unique value to the projects I work on.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+### &nbsp;Work Experience
+### &nbsp;Junior Android Developer - Visions tech
+ &nbsp;Developed Android applications using Kotlin and Jetpack Compose, focusing on creating interactive user interfaces and enhancing user experience.
+Contributed to improving the second version of the "Gannatak" app, an online marketplace for selling seedlings and providing agricultural consultations, by resolving complex bugs and optimizing performance.
+Played a key role in the development of "Wajad", an online school application, leveraging technologies such as Retrofit, Room, and Hilt within the MVVM architecture.
+Worked on building the "Haraj" investment platform for the Saudi market, implementing cutting-edge technologies to meet user needs.
+Consistently improved code quality and adhered to best programming practices.
+I have worked on modifying and improving Flutter projects, including troubleshooting, customizing UI designs, and integrating additional features to meet project requirements such as “Mr. Tayer”, “Tayer Man”, and “Tashilihi”.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
