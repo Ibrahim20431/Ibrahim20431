@@ -1,12 +1,12 @@
 ![Ibrahim Shabrawy](https://github.com/user-attachments/assets/8e536e15-fc51-4022-baaf-3456f3e79988)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ibrahim Shabrawy</h2>
+<h2>Hey there! I'm Ibrahim Shabrawy</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I am Ibrahim Shabrawy, an Android Developer with one year of experience, dedicated to delivering innovative and high-quality tech solutions. I have expertise in building top-notch applications using Kotlin and Jetpack Compose, with a solid understanding of MVVM architecture and integration of cutting-edge tools like Hilt and Retrofit. I have contributed to the success of applications such as "Gannatak" and "Wajad", focusing on performance optimization and resolving complex issues, while also working on innovative projects like the "Haraj" platform. I am always eager to expand my skills and bring unique value to the projects I work on.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
