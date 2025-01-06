@@ -35,7 +35,7 @@
 **Firebase**&nbsp;
 **SOLID**&nbsp;
 **Agile**&nbsp;
-**GitHub**\
+**GitHub**
 
 
 ### ⚙️ &nbsp;GitHub Analytics
