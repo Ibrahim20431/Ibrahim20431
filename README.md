@@ -47,15 +47,6 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://my-resume-pi-navy.vercel.app"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>Portfolio</a>
-<a href="https://www.linkedin.com/in/ibrahim-shabrawy-0ab580304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>@IbrahimShabrawy</a>
-<a href="mailto:ibr.apasy789@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/>Mail</a>
-<a href="https://www.facebook.com/profile.php?id=100006198634195&sfnsn=scwspwa&mibextid=RUbZ1f"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/>Facebook</a>
-</p>
-
 ----
 
 Last Edited on: 13/11/2024
