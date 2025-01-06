@@ -15,6 +15,11 @@
  &nbsp;Worked on building the "Haraj" investment platform for the Saudi market, implementing cutting-edge technologies to meet user needs.\
  &nbsp;Consistently improved code quality and adhered to best programming practices.\
  &nbsp;I have worked on modifying and improving Flutter projects, including troubleshooting, customizing UI designs, and integrating additional features to meet project requirements such as “Mr. Tayer”, “Tayer Man”, and “Tashilihi”.\
+![wajad (4)](https://github.com/user-attachments/assets/0b6ca518-12b4-425f-9dfd-7ea1719e6242)
+![wajad (3)](https://github.com/user-attachments/assets/69743124-4847-452a-bc7e-84475d2b5de4)
+![wajad (2)](https://github.com/user-attachments/assets/74d026f5-a655-4b2a-a8cd-a0d4094abe83)
+![wajad (1)](https://github.com/user-attachments/assets/a41ebf41-0eed-41f2-8718-bd54d944cee2)
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
