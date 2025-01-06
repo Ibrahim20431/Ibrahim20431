@@ -35,7 +35,7 @@
 ![Firebase]&nbsp;
 ![SOLID]&nbsp;
 ![Agile]&nbsp;
-![GitHub]\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
