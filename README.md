@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 **Jetpack Compose**&nbsp;
-![Kotlin Coroutine](https://img.shields.io/badge/Status-Active-brightgreen)&nbsp;
+[Kotlin Coroutine]&nbsp;
 [Kotlin]&nbsp;
 [Java]&nbsp;
 [Xml]\
@@ -36,6 +36,12 @@
 [SOLID]&nbsp;
 [Agile]&nbsp;
 [GitHub]\
+
+<div style="display: flex; gap: 10px;">
+  <span style="background-color: #e1ecf4; color: #0366d6; padding: 5px 10px; border-radius: 20px; font-size: 14px;">Kotlin Coroutine</span>
+  <span style="background-color: #e1ecf4; color: #0366d6; padding: 5px 10px; border-radius: 20px; font-size: 14px;">Kotlin</span>
+  <span style="background-color: #e1ecf4; color: #0366d6; padding: 5px 10px; border-radius: 20px; font-size: 14px;">Java</span>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
