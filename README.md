@@ -21,7 +21,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Jetpack Compose]&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 ![Kotlin Coroutine]&nbsp;
 ![Kotlin]&nbsp;
 ![Java]&nbsp;
