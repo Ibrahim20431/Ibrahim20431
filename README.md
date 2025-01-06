@@ -1,6 +1,6 @@
 ![Ibrahim Shabrawy](https://github.com/user-attachments/assets/8e536e15-fc51-4022-baaf-3456f3e79988)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ibrahim Shabrawy</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
